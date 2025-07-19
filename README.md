@@ -1,1 +1,0 @@
-# gureumi-bot
